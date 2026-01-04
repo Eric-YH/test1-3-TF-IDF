@@ -1,4 +1,4 @@
-# Dental Pain Detection from Clinical Notes (Traditional NLP)
+# (Traditional NLP)
 
 Detect pain-related symptoms from clinical notes using **classic NLP** and traditional machine learning.
 
